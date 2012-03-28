@@ -1,5 +1,5 @@
-OpenStates-Ruby: A Ruby-Gem encompassing !
-=============================================
+OpenStates-Ruby: A ruby implementation of the OpenStates Project!
+================================================================
 
 **Git**:          [http://github.com/rudyindustries/openstates-ruby](http://github.com/rudyindustries/openstates-ruby)
 **Author**:       Kurt Rudolph - [Rudy Industries Inc.](http://www.rudyindustries.com/)
