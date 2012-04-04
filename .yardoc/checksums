@@ -1,0 +1,3 @@
+lib/openstates.rb a70992071d7ac7e038bd66e6079b43b5d674c4a4
+lib/openstates/version.rb 805cc37aef11031401a3c0c29820efaafac71c28
+lib/openstates/scrapers/state.rb cd51065acd148dfa6ff5ad913b274c6123963ad2
